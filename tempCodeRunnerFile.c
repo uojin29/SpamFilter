@@ -1,3 +1,3 @@
 
+    int num;
     char *label;
-    char *text;
